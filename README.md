@@ -12,4 +12,7 @@ This is the Microchip tool designed to upload device firmware to the USB device 
   to the MCU. When the USB device is put into bootloader mode the bootloader driver must be provided. It can be found in
   the Bootloader-Driver directory.
 
+
+NOTE: please be aware that this is NOT an Endurance R/C product. This tool was written by Microchip and is posted here
+  to make it easy to find.
 -------------------------------------------------------------------------------------------------------------------------
